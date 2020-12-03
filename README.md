@@ -1,5 +1,5 @@
 # NNFL
-Python Implementation for the assignments of the course Neural Network and Fuzzy Logic
+Python Implementation for the assignments of the course Neural Networks.
 
 ### Assignment 1
     
