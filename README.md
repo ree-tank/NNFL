@@ -14,3 +14,14 @@ Python Implementation for the assignments of the course Neural Network and Fuzzy
 * Likelihood Ratio Test
 * MAP Decision Rule
 * ML Decision Rule
+
+
+### Assignment 2
+* Non Linear Perceptron
+* Multilayer Perceptron
+* Radial Basis Function Neural Network
+* Stacked Autoencoder Based Deep Neural Network
+* Extreme Learning Machine Classifier
+* Deep layer Stacked Autoencoder based Extreme Learning Machine
+* 1D Convolutional Neural Network
+* 2D Deep CNN Classifier
